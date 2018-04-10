@@ -1,24 +1,33 @@
-# README
+Kanboard
+========
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://travis-ci.org/kanboard/kanboard.svg?branch=master)](https://travis-ci.org/kanboard/kanboard)
 
-Things you may want to cover:
+Kanboard is project management software that focuses on the Kanban methodology.
 
-* Ruby version
+Official website: <https://kanboard.org/>
 
-* System dependencies
+- Get a clear visual overview of your project
+- Multiple boards with the ability to drag and drop tasks
+- Open source and self-hosted
+- Super simple installation
+- Translated into many languages
+- Distributed under [MIT License](https://github.com/kanboard/kanboard/blob/master/LICENSE)
+- [List of features](https://kanboard.org/#features)
+- [Change Log](https://github.com/kanboard/kanboard/blob/master/ChangeLog)
+- [Documentation](https://github.com/kanboard/kanboard/blob/master/doc/en_US/index.markdown)
+- IRC channel: [#kanboard](ircs://chat.freenode.net:6697/#kanboard) (Freenode)
 
-* Configuration
+Credits
+-------
 
-* Database creation
+- Main developer: Frédéric Guillot
+- [Contributors](https://github.com/kanboard/kanboard/graphs/contributors)
 
-* Database initialization
+Installation and Upgrade
+------------------------
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Requirements](https://github.com/kanboard/kanboard/blob/master/doc/en_US/requirements.markdown)
+- [Installation instructions](https://github.com/kanboard/kanboard/blob/master/doc/en_US/installation.markdown)
+- [Upgrade to a new version](https://github.com/kanboard/kanboard/blob/master/doc/en_US/update.markdown)
+- [Use Kanboard with Docker](https://github.com/kanboard/kanboard/blob/master/doc/en_US/docker.markdown)
